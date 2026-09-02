@@ -22,13 +22,13 @@ Daily performance data for two marketing campaigns, run over the same time perio
 | Page | What it shows |
 |---|---|
 | **Overview** | What A/B testing is, why it matters, and dataset context |
-| ![Overview](Screenshots/01-overview.png) |
+| ![Overview](01-overview.png) |
 | **Funnel Comparison** | Side-by-side funnel visuals for Control vs Test, plus spend/purchases/conversion summary cards |
-| ![Funnel Comparison](Screenshots/02-funnel-comparison.png) |
+| ![Funnel Comparison](02-funnel-comparison.png) |
 | **Cost & Conversion Analysis** | CPC, CPM, cost-per-purchase, cost-per-add-to-cart, stage-by-stage conversion rate tables, and daily spend trend |
-| ![Cost & Conversion Analysis](Screenshots/03-cost-conversion.png) |
+| ![Cost & Conversion Analysis](03-cost-conversion.png) |
 | **Decision Summary** | Head-to-head takeaways and final recommendation |
-| ![Decision Summary](Screenshots/04-decision-summary.png) |
+| ![Decision Summary](04-decision-summary.png) |
 
 ## Key Metrics (DAX Measures)
 
